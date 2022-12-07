@@ -1,6 +1,6 @@
 # Learning Python Journey 
 
-Hi Every one take a look to my journey with learning How to program with python by taking this course 
+Hi Everyone, this is my journey with learning How to program with python by taking this course
 
 [100 Days of Code: The Complete Python Pro Bootcamp for 2023 - Projects Repository](https://www.udemy.com/share/103J8C3@8vF2huHnPspsSsg_l6VXD-iqxMR_Ug802BMSxnn6k3bZDuE1vOlKTp6DtG3TlHrp/)
 
